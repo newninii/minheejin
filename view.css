@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;text-decoration: none;list-style-type: none;}
+
+body{
+    background-color: #CA8DD1;
+}
+.line{
+        margin: 0 auto;
+        position: relative;
+        background-color: #CA8DD1;
+        top:0px;
+    }
+.int01{
+    display: block;
+    position: absolute;
+}

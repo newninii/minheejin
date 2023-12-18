@@ -1,0 +1,23 @@
+*{margin: 0;padding: 0;text-decoration: none;list-style-type: none;}
+
+body{
+    background-color: #CA8DD1;
+}
+.line3{width:1920px;
+        height:65px;
+        margin: 0 auto;
+        position: relative;
+        background-color: #CA8DD1;
+        top:100px;
+    }
+    .wrap3{
+        border: 1px solid #FBFF84;
+        width: 1136px;
+        height: 779px;
+        margin: 0 auto;
+        position: relative;
+    }
+.ab01{
+    display: block;
+    position: absolute;
+}

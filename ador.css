@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;text-decoration: none;list-style-type: none;}
+
+body{
+    background-color: #FBFF84;
+}
+.line6{width:1920px;
+        height:671px;
+        margin: 0 auto;
+        position: relative;
+        background-color: #CA8DD1;
+        top:1091px;}
+.wrap6{
+    border: 1px solid #FBFF84;
+    width: 1136px;
+    height: 779px;
+    margin: 0 auto;
+    position: relative;
+}
+.ador01{
+    display: block;
+    position: absolute;
+    top: 248px;
+}
+.ador02{
+    display: block;
+    position: absolute;
+    top: 490px;
+    left: 301px;
+}
